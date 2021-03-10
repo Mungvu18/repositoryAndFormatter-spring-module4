@@ -1,0 +1,28 @@
+model/Student.java
+ model.Student
+model/Classess.java
+ model.Classess
+model/StudentForm.java
+ model.StudentForm
+repository/ClassesRepository.java
+ repository.ClassesRepository
+service/student/StudentService.java
+ service.student.StudentService
+service/student/IStudentService.java
+ service.student.IStudentService
+repository/StudentRepository.java
+ repository.StudentRepository
+service/classes/IClassesService.java
+ service.classes.IClassesService
+service/classes/ClassesService.java
+ service.classes.ClassesService
+config/AppInit.java
+ config.AppInit
+formatter/ClassesFormater.java
+ formatter.ClassesFormater
+service/IService.java
+ service.IService
+config/AppConfiguration.java
+ config.AppConfiguration
+controller/StudentController.java
+ controller.StudentController
